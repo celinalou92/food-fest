@@ -1,3 +1,6 @@
+// we installed bootstrap and its dependency popper, now we are requiring bootstrap 
+require("bootstrap");
+
 $(document).ready(function() {
   function createEl(htmlString, attrs, ...children) {
     if (typeof htmlString !== "string") {
