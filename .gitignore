@@ -1,2 +1,6 @@
 node_modules
+<<<<<<< HEAD
 package-copy.json
+=======
+.DS-Store
+>>>>>>> develop
